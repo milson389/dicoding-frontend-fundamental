@@ -1,0 +1,13 @@
+i {
+	color: #fff;
+}
+
+a {
+	text-decoration: none;
+}
+
+@media screen and(max-width: 576px) {
+	* {
+		overflow-x: hidden;
+	}
+}
